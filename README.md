@@ -12,4 +12,4 @@
 ![alt text](https://sun9-2.userapi.com/c840435/v840435912/79a64/avyDsvZ55HA.jpg)
 ![alt text](https://sun9-8.userapi.com/c840435/v840435912/79a6e/hKEn79nydEU.jpg)
 
-###p.s.  sorry, our presentation is too big to be downloaded to GitHub =(
+###p.s.  sorry, our presentation file is too big to be downloaded to GitHub =(
